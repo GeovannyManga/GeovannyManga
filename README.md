@@ -4,7 +4,7 @@
 
 <!-- Sección de presentación -->
 ## 💭 ¿Quién soy?
-Soy un desarrollador web full stack con un profundo interés en la tecnología. Aunque mi curiosidad por la programación surgió desde una edad temprana, fue hace aproximadamente dos años cuando decidí emprender un camino autodidacta en el mundo de la programación. En ese momento, me di cuenta de que la programación era mi verdadera pasión y un camino que quería recorrer en mi carrera profesional.
+Soy un desarrollador web full stack con un profundo interés en la tecnología. Aunque mi curiosidad por la programación surgió desde una edad temprana, fue desde aproximadamente mis 15 años cuando decidí emprender un camino autodidacta en el mundo de la programación. En ese momento, me di cuenta de que la programación era mi verdadera pasión y un camino que quería recorrer en mi carrera profesional.
 
 <!-- Sección de proyectos -->
 ## 🤺 ¿Qué hago?
