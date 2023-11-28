@@ -8,7 +8,7 @@ Soy un desarrollador web full stack con un profundo interés en la tecnología. 
 
 <!-- Sección de proyectos -->
 ## 🤺 ¿Qué hago?
-En la actualidad, me dedico a la creación de proyectos web con el objetivo de consolidar mis habilidades y mejorar mi lógica de programación. Esta práctica constante me permite continuar mi crecimiento como desarrollador y estar en constante evolución. Cada proyecto es una oportunidad para perfeccionar mis habilidades y expandir mi experiencia en el campo de la programación.
+En la actualidad, me dedico a la creación de proyectos web con el objetivo de consolidar mis habilidades y mejorar mi lógica de programación mientras trabajo como Freelancer realizando proyectos para clientes de colombia y todo el mundo. Esta práctica constante me permite continuar mi crecimiento como desarrollador y estar en constante evolución. Cada proyecto es una oportunidad para perfeccionar mis habilidades y expandir mi experiencia en el campo de la programación.
 
 <!-- Sección de objetivos -->
 ## 🚀 ¿A dónde me dirijo?
