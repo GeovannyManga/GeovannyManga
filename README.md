@@ -16,7 +16,7 @@ Mi objetivo principal es adquirir un profundo conocimiento en tecnología y, a c
 
 <!-- Sección de tecnologías -->
 ### 🧑‍💻 ¿Qué tecnologías uso?
-HTML | CSS | JavaScript | ReactJs | Redux | Node/Express | MongoDB | Mongoose | PostgreSQL | Sequelize | TypeScript | Python | Django | tailwind | Socket.io
+HTML | CSS | JavaScript | ReactJs | Redux | Node/Express | MongoDB | Mongoose | PostgreSQL | Sequelize | TypeScript | Python | Django | tailwind | Socket.io | Go | next.js
 
 <!-- Sección de contacto -->
 ### Contacto
