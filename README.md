@@ -1,24 +1,43 @@
-<!-- Encabezado -->
-# ¡Hola! 😁 Mi nombre es Geovanny Manga
-### También conocido como GeoDev 👀
+Aquí tienes el perfil de GitHub actualizado:
 
-<!-- Sección de presentación -->
-## 💭 ¿Quién soy?
-Soy un desarrollador web full stack con un profundo interés en la tecnología. Aunque mi curiosidad por la programación surgió desde una edad temprana, fue desde aproximadamente mis 15 años cuando decidí emprender un camino autodidacta en el mundo de la programación. En ese momento, me di cuenta de que la programación era mi verdadera pasión y un camino que quería recorrer en mi carrera profesional.
+---
 
-<!-- Sección de proyectos -->
-## 🤺 ¿Qué hago?
-En la actualidad, me dedico a la creación de proyectos web con el objetivo de consolidar mis habilidades y mejorar mi lógica de programación mientras trabajo como Freelancer realizando proyectos para clientes de colombia y todo el mundo. Esta práctica constante me permite continuar mi crecimiento como desarrollador y estar en constante evolución. Cada proyecto es una oportunidad para perfeccionar mis habilidades y expandir mi experiencia en el campo de la programación.
+# ¡Hola! Soy Geovanny Manga 🌟  
+**Alias:** GeoDev 👨‍💻
 
-<!-- Sección de objetivos -->
+---
+
+## 💼 Sobre mí
+Soy un desarrollador web **Full Stack** apasionado por la tecnología y el desarrollo de software. Mi interés en la programación comenzó a temprana edad y se consolidó a los 15 años, cuando emprendí un camino autodidacta en el mundo del desarrollo. Desde entonces, he perfeccionado mis habilidades en múltiples tecnologías y frameworks, con un enfoque en la creación de soluciones innovadoras y eficientes.
+
+---
+
+## 🎯 ¿Qué hago?
+Actualmente, trabajo como **Freelancer**, desarrollando proyectos personalizados para clientes en Colombia y alrededor del mundo. Mi experiencia incluye tanto proyectos individuales como colaboración en equipos de desarrollo, donde he tenido la oportunidad de coordinar y trabajar junto a profesionales para construir aplicaciones web de alto impacto. Cada proyecto representa una oportunidad para mejorar mi lógica de programación y seguir creciendo en un campo en constante evolución.
+
+---
+
 ## 🚀 ¿A dónde me dirijo?
-Mi objetivo principal es adquirir un profundo conocimiento en tecnología y, a corto plazo, asegurar una posición en el campo del desarrollo web, que es mi verdadera pasión. Estoy comprometido con el aprendizaje continuo y el perfeccionamiento de mis habilidades, y estoy ansioso por aplicar mis conocimientos en un entorno laboral que ofrezca desafíos y oportunidades de crecimiento profesional.
+Mi objetivo es seguir consolidando mi experiencia en el desarrollo web, ampliando mis conocimientos y contribuyendo a proyectos que representen un reto profesional. Estoy comprometido con el aprendizaje continuo, y me motiva aplicar mis habilidades en entornos que impulsen la innovación y la colaboración.
 
-<!-- Sección de tecnologías -->
-### 🧑‍💻 ¿Qué tecnologías uso?
-HTML | CSS | JavaScript | ReactJs | Redux | Node/Express | MongoDB | Mongoose | PostgreSQL | Sequelize | TypeScript | Python | Django | tailwind | Socket.io | Go | next.js
+---
 
-<!-- Sección de contacto -->
-### Contacto
-- LinkedIn: https://www.linkedin.com/in/geodev17/
-- E-Mail: geovannyx.casimirom@unac.edu.co
+## 🛠️ Tecnologías
+Aquí están algunas de las tecnologías y herramientas que utilizo regularmente en mis proyectos:
+
+**Frontend:** HTML | CSS | JavaScript | React.js | Redux | Tailwind CSS | Next.js  
+**Backend:** Node.js | Express | Socket.io | Django | Go  
+**Bases de Datos:** MongoDB | Mongoose | PostgreSQL | Sequelize  
+**Otros:** TypeScript | Python  
+
+---
+
+## 🌐 Contacto
+Conéctate conmigo para discutir ideas, colaborar en proyectos o simplemente para hablar sobre tecnología:
+
+- [LinkedIn](https://www.linkedin.com/in/geodev17/)
+- Correo electrónico: [geovannyx.casimirom@unac.edu.co](mailto:geovannyx.casimirom@unac.edu.co)
+
+---
+
+Esta versión refleja tu experiencia en colaboración y trabajo en equipo, manteniendo una imagen profesional y orientada al crecimiento. ¡Espero que sea justo lo que necesitas!
