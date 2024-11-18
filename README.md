@@ -1,6 +1,3 @@
-Aquí tienes el perfil de GitHub actualizado:
-
----
 
 # ¡Hola! Soy Geovanny Manga 🌟  
 **Alias:** GeoDev 👨‍💻
