@@ -37,4 +37,3 @@ Conéctate conmigo para discutir ideas, colaborar en proyectos o simplemente par
 
 ---
 
-Esta versión refleja tu experiencia en colaboración y trabajo en equipo, manteniendo una imagen profesional y orientada al crecimiento. ¡Espero que sea justo lo que necesitas!
